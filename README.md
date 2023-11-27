@@ -1,14 +1,14 @@
 # IPL Hackathon Data Analysis
 
 ## Overview
-This repository contains the code and analysis for the IPL Hackathon that took place on November 27, 2023. The challenge involved analyzing the IPL dataset and answering a series of questions related to the matches, players, and teams.
+This repository contains the code and analysis for the IPL Hackathon that took place on November 25, 2023. The challenge involved analyzing the IPL dataset and answering a series of questions related to the matches, players, and teams.
 
 ## Dataset
 The dataset used for this analysis is the "IPL Complete Dataset (2008-2020)" available on Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020).
 
 ## Hackathon Details
-- **Date**: November 27, 2023
-- **Time**: 8:00 AM to 1:00 PM
+- **Date**: November 25, 2023
+- **Time**: 11:00 AM to 4:00 PM
 - **Duration**: 5 hours
 
 ## What's Inside?
